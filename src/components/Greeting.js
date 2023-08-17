@@ -1,8 +1,7 @@
 import React, { useEffect } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { fetchGreeting } from '../redux/greetings/greetingSlice';
 import { Link } from 'react-router-dom';
-
+import { fetchGreeting } from '../redux/greetings/greetingSlice';
 
 const Greeting = () => {
   const dispatch = useDispatch();
@@ -19,7 +18,12 @@ const Greeting = () => {
   }
 
   if (error) {
-    return <p>Error: {error}</p>;
+    return (
+      <p>
+        Error:
+        {error}
+      </p>
+    );
   }
 
   return (
