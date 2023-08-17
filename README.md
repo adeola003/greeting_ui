@@ -118,52 +118,79 @@ $ npm start
 
 
 <!-- AUTHORS -->
+<!-- AUTHORS -->
 
+👤 **Abdel-Khafid SALAOU**
 👤 **Abdel-Khafid SALAOU**
 
 - GitHub: [@githubhandle](https://github.com/adeola003)
 - Twitter: [@twitterhandle](https://twitter.com/khadaf6)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdel-khafid-salaou)
+- GitHub: [@githubhandle](https://github.com/adeola003)
+- Twitter: [@twitterhandle](https://twitter.com/khadaf6)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdel-khafid-salaou)
 
 <!-- FUTURE FEATURES -->
+<!-- FUTURE FEATURES -->
 
+## 🔭 Future Features <a name="future-features"></a>
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Will-add-more-intersting features]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [ ] **[Will-add-more-intersting features]**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 <!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issue page](https://github.com/adeola003/greeting_ui/issues)
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issue page](https://github.com/adeola003/greeting_ui/issues)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
+<!-- SUPPORT -->
 
+## ⭐️ Show your support <a name="support"></a>
 ## ⭐️ Show your support <a name="support"></a>
 
 
 If you like this repo dont forget to give it a star.
+If you like this repo dont forget to give it a star.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS -->
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank the Microverse community and the partners.
 I also give thanks to [Gregoire Vella on Behance](https://www.behance.net/gregoirevella), the author of [the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+I would like to thank the Microverse community and the partners.
+I also give thanks to [Gregoire Vella on Behance](https://www.behance.net/gregoirevella), the author of [the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
+<!-- LICENSE -->
 
+## 📝 License <a name="license"></a>
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
