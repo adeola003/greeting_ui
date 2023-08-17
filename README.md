@@ -66,6 +66,9 @@ I created a Ruby on Rails application that allows the user to:
 ## 💻 Getting Started <a name="getting-started"></a>
 
 **Repositories**
+
+
+
 Below are the links to the two repositories of the project.
 
 - Front-end repo: [greeting_ui](https://github.com/adeola003/greeting_ui)
